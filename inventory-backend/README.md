@@ -2,9 +2,10 @@
 
 ## For data migration run the following command
 
-run `composer install`
-create database `inventory_app`
-run `php artisan migrate --seed`
+1. run `composer install`
+2. create database `inventory_app`
+3. configure the database in .env file
+4. run `php artisan migrate --seed`
 
 ## Configure the queue in .env file
 
