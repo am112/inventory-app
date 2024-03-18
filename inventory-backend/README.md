@@ -14,9 +14,13 @@
 ## Configure pusher
 
 `BROADCAST_DRIVER=pusher`
+
 `PUSHER_APP_ID=1772637`
+
 `PUSHER_APP_KEY=4849c110800671baabbf`
+
 `PUSHER_APP_SECRET=0adb18a289b212f64eda`
+
 `PUSHER_APP_CLUSTER=ap1`
 
 ## run queue worker
