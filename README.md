@@ -1,5 +1,8 @@
 # inventory-app
 
+<img width="1451" alt="Screenshot 2024-03-18 at 9 12 33 PM" src="https://github.com/am112/inventory-app/assets/50881815/ccf4cb9d-d363-42e5-bf41-3298abdca3af">
+
+
 ## Frontend folder `inventory-frontend`
 
     1. Build using vuejs 3 vite.
